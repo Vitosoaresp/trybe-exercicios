@@ -1,0 +1,16 @@
+Git & github
+
+instalamos e usamos o git.
+
+comandos do git :
+
+- git init = cria novo repositório
+- git status = mostrar o status da árvore de trabalho
+- git add nomedoarquivo.txt = a**dicionar um arquivo em específico**
+- git commit meu_arquivo.txt = usado para comitar um arquivo
+- git commit meuarquivo.txt -m "minha mensagem de commit" = comitar com msg
+- git checkout = navega nas branch
+- git branch (name) = **Criando um novo branch**
+- git checkout -b (name) = cria uma nova branch e ja navega até ela
+- git merge (nome do branch)
+- git push origin (name do branch ou da master)

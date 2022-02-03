@@ -1,0 +1,19 @@
+touch namearquivo.extensao = cria um novo arquivo
+cp nomearquivo nomearquivcopia = copia um arquivo
+mv arquivo1 arquivo2 move ou renomeia um arquivo
+mkdir name = cria um novo diretorio
+rm -if namearq = apaga uma pasta
+pwd = mostra o path do diretorio atual
+clear = limpa o terminal
+head = mostra as 10 primeiras linha do arquivo
+tail = mostra as 10 ultimas
+*coringa 
+cat  arquivo.extensao = mostra o conteudo do arquivo
+less = mostra conteudo pagina por pagina
+grep (palavra-chave) (Nomedoarqv) = busque por uma palavra chave no arqv.
+grep -iv ‘  ’  = excluir uma palavra chave para fazer a busca
+man = manual do comando
+ls * = 
+wc = mostra numero de linha e palavra
+wc -l = numero de linas
+wc -w = n° de palavras
