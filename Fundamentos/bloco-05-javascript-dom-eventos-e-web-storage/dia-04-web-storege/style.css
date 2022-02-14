@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  border: 0;
+}
+.header-container {
+
+}
+#title-page {
+  text-align: center;
+  margin-top: 40px;
+
+}
+.section-container {
+  margin-top: 50px;
+}
+#input-backgroundColor {
+  margin-left: 15px;
+  margin-top: 10px;
+  width: 210px;
+}
+.text-input-left {
+  margin-left: 10px;
+  display: inline-block;
+  float: left;
+  margin-top: 10px;
+}
