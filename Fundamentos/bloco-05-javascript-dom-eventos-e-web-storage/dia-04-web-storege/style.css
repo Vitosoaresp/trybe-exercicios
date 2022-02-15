@@ -18,10 +18,10 @@
 #input-backgroundColor {
   margin-left: 15px;
   margin-top: 10px;
-  width: 210px;
+  width: auto;
+  height: 18px;
 }
 .text-input-left {
-  margin-left: 10px;
   display: inline-block;
   float: left;
   margin-top: 10px;

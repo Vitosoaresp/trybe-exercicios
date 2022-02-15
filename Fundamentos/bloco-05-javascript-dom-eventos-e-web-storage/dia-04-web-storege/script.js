@@ -3,11 +3,8 @@ let body = document.body;
 
 function createInput() {
   let input = document.createElement('input');
-  input.type = 'text';
-  input.style.border = '2px solid black';
-  input.placeholder = 'Escreva a cor de fundo em inglês'
+  input.type = 'checkBox';
   input.id = 'input-backgroundColor';
-
   sectionOptions.appendChild(input);
 }
 createInput();
@@ -19,12 +16,32 @@ function createTagP (string) {
   tagP.className = 'text-input-left';
   sectionOptions.appendChild(tagP);
 }
-createTagP('Mude a cor de fundo da página --->');
+createTagP('Modo Dark');
 
-function colorBackground() {
-  body.style.background = inputText.value;
-  if (inputText.value == 'black') {
-    body.style.color = 'white';
-  }
+function colorBackground(color) {
+  body.style.background = color;
+  localStorage.setItem('background', color)
 }
-inputText.addEventListener('keyup', colorBackground);
+colorBackground('black');
+
+function colorText(color) {
+  body.style.color = color
+  localStorage.setItem('colorText', color);
+}
+colorText('white');
+// function modoDark() {
+//   inputText.addEventListener('click', function(){
+//     if (inputText.checked == true) {
+//       colorBackground('black')
+//       colorText('white');
+//     }
+//   })
+// }
+
+function fontSize(value) {
+  body.style.fontSize = value + 'px';
+  let valueFont = value + 'px';
+  localStorage.setItem('fontSize', valueFont);
+}
+fontSize('16');
+
