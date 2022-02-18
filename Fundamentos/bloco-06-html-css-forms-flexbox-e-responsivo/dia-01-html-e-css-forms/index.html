@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <section id="container">
+    <div class="form-container">
+      <form action="" method="get">
+        <div class="section-form-container">
+          <section class="main">
+              <div id="name" >
+                <label for="name">Nome:
+                  <input type="text" id="name" name="nome" maxlength="40" minlength="10">
+                </label>
+              </div>
+              <div class="section-form-container">
+                <label for="e-mail">Email:
+                  <input type="email" name="e-mail" id="e-mail" minlength="10" maxlength="50">
+                </label>
+              </div>
+            <div class="section-form-container">
+              <input type="radio" name="opcao" id="opcao1">
+              <label for="opcao1">Cidade</label>
+              <input type="radio" name="opcao" id="opcao2">
+              <label for="opcao2">Campo</label>
+              <input type="radio" name="opcao" id="opcao3">
+              <label for="opcao3">Praia</label>
+              <input type="radio" name="opcao" id="opcao4">
+              <label for="opcao4">Montanhas</label>
+            </div>
+            <div class="section-form-container">
+              <label for="textoreposta">Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?
+                <textarea name="textoreposta" id="textoresposta" cols="30" rows="10" maxlength="500"></textarea>
+              </label>
+            </div>
+            <div class="section-form-container">
+              <label for="data">Qual a melhor data para realizar sua viagem?
+                <input type="date" name="data" id="data">
+              </label>
+            </div>
+            <div class="section-form-container">
+              <div class="options">  
+                <input type="checkbox" name="option" id="option1">
+                <label for="option1">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?
+                </label>
+              </div>
+              <div class="options">
+                <input type="checkbox" name="option" id="option2">
+                <label for="option2">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.
+                </label>
+              </div>
+            </div>
+          </section>
+        </div> 
+          <div id="buttons">
+          </div>
+      </form>
+    </div>
+  </section>
+  <script src="/script.js"></script>
+</body>
+</html>
