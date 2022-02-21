@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(218, 230, 230);
+}
+header {
+  margin-top: 15px;
+}
+main {
+  border: 2px solid black;
+  padding: 8px;
+  background-color: rgb(230, 242, 252);
+}
+.container {
+  margin-bottom: 30px;
+}
+#buttons {
+  margin-top: 20px;
+  margin-right: 15px;
+}
