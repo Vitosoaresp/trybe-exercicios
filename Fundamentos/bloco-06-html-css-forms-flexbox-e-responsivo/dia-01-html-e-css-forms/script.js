@@ -11,7 +11,7 @@ createButton('submit', 'Enviar', 'button1');
 createButton('reset', 'Apagar', 'button2');
 
 const button = document.getElementById('button1');
-button.addEventListener('click', defalt)
+button.addEventListener('click', defalt);
 
 function defalt(event) {
   event.preventDefault();
