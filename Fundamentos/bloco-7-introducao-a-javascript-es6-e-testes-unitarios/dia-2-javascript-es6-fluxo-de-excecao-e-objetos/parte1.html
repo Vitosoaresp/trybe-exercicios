@@ -16,16 +16,12 @@
   <p id='result'></p>
   <script>
     const verifyInputs = (input1, input2) => {
-      const value1 = document.getElementById('value1').value;
-      const value2 = document.getElementById('value2').value;
-      if(!value1 || !value2) {
+      if(!input1 || !input2) {
         throw new Error('Deve ser inserido valores nos dois inputs!')
       }
     };
     const verifyInputsNan = (input1, input2) => {
-      const value1 = document.getElementById('value1').value;
-      const value2 = document.getElementById('value2').value;
-      if(isNaN(value1) || isNaN(value2)) {
+      if(isNaN(input1) || isNaN(input2)) {
         throw new Error('Deve ser inserido valores numéricos!')
       }
     };
