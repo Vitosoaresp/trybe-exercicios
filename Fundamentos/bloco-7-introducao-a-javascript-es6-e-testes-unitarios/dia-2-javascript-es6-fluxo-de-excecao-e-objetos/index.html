@@ -19,7 +19,14 @@
       const value1 = document.getElementById('value1').value;
       const value2 = document.getElementById('value2').value;
       if(!value1 || !value2) {
-        throw new Error('Deve ser inserido dois Valores!')
+        throw new Error('Deve ser inserido dois valores!')
+      }
+    };
+    const verifyInputsNan = (input1, input2) => {
+      const value1 = document.getElementById('value1').value;
+      const value2 = document.getElementById('value2').value;
+      if(isNaN(value1) || isNaN(value2)) {
+        throw new Error('Deve ser inserido valores Numéricos!')
       }
     };
 
@@ -28,6 +35,7 @@
         const value1 = document.getElementById('value1').value;
         const value2 = document.getElementById('value2').value;
         verifyInputs(value1,value2);
+        verifyInputsNan(value1, value2);
         const result = parseInt(value1) + parseInt(value2);
         document.getElementById('result').innerHTML = `Resultado: ${result}`;
         return result;
