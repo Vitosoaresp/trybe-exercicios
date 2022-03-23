@@ -1,0 +1,8 @@
+li {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+li div {
+  margin-right: 20px;
+}
