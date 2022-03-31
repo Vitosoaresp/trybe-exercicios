@@ -33,7 +33,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [x] 4-4: _JavaScript - Objetos e funções_
-- [x] 4-5: _[Projeto - Playground Functions]()_
+- [x] 4-5: _[Projeto - Playground Functions](https://github.com/tryber/sd-020-b-project-playground-functions/pull/92)_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
@@ -42,9 +42,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
 - [x] 5-5: _[Projeto - Meme Generator]()_
-- [x] 5-6: _[Projeto - Arte com Pixels]()_
-- [x] 5-7: _[Projeto - Lista de tarefas]()_
-- [x] 5-7: _[Projeto - Adivinhe a Cor]()_
+- [x] 5-6: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-020-b-project-pixels-art/pull/9)_
+- [x] 5-7: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-020-b-project-todo-list/pull/57)_
+- [x] 5-7: _[Projeto - Adivinhe a Cor](https://github.com/tryber/sd-020-b-project-color-guess/pull/27)_
 - [x] 5-7: _[Projeto - Carta Misteriosa]()_
 
 ##### Bloco 6: HTML & CSS avançado
@@ -54,14 +54,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsivo - Mobile First_
-- [x] 6-6: _[Projeto - Página inicial do Facebook]()_
+- [x] 6-6: _[Projeto - TrybeWarts](https://github.com/tryber/sd-020-b-project-trybewarts/pull/91)_
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Testes unitários em JavaScript_
-- [x] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [x] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-020-b-project-js-unit-tests/pull/105)_
 
 ##### Bloco 8: JavaScript ES6
 
@@ -69,45 +69,44 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [x] 8-5: _[Projeto - Zoo functions]()_
+- [x] 8-5: _[Projeto - Zoo functions](https://github.com/tryber/sd-020-b-project-zoo-functions/pull/17)_
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _JavaScript Promises_
-- [x] 9-3: _[Projeto - Carrinho de Compras]()_
-
-##### Bloco 10: Jest
-
-- [ ] 10-1: _Primeiros passos no Jest_
-- [ ] 10-2: _Jest - Testes Assíncronos_
-- [ ] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+- [x] 9-3: _[Projeto - Carrinho de Compras](https://github.com/tryber/sd-020-b-project-shopping-cart/pull/7)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 11: Introdução - React
+##### Bloco 10: Introdução à React
 
-- [ ] 11-1: _'Hello, world!' no React!_
-- [ ] 11-2: _Componentes React_
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
+- [ ] 10-1: _Introdução Front-End_
+- [ ] 10-1: _Introdução React_
+- [ ] 10-1: _'Hello, world!' no React!_
+- [ ] 10-2: _Componentes React_
+- [ ] 10-3: _[Projeto - Sistema Solar]()_
 
-##### Bloco 12: React
+##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 12-1: _Components com estado_
-- [ ] 12-2: _Eventos e formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [ ] 11-1: _Componentes com estado e eventos_
+- [ ] 11-2: _Formulários no React_
+- [ ] 11-3: _[Projeto - Tryunfo]()_
 
-##### Bloco 13: React
+##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
-- [ ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [ ] 13-2: _Ciclo de vida de componentes em React_
-- [ ] 13-3: _React Router_
-- [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+- [ ] 12-1: _Ciclo de Vida de Componentes_
+- [ ] 12-2: _React Router_
+- [ ] 12-3: _[Projeto - TrybeTunes]()_
 
-##### Bloco 14: Metodologias Ágeis
+##### Bloco 13: Metodologias Ágeis
 
-- [ ] 14-1: _Metodologias Ágeis_
+- [ ] 13-1: _Metodologias Ágeis_
+- [ ] 13-2: _[Projeto - Frontend Online Store]()_
+
+##### Bloco 14: Testes automatizados com React Testing Library
+
+- [ ] 14-1: __
 - [ ] 14-2: _[Projeto - Frontend Online Store]()_
 
 ##### Bloco 15: Testes em React
