@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: rgb(24,27,24);
+  color: white;
+}
+
+.main:hover {
+  font-size: larger;
+}
