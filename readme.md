@@ -85,19 +85,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 10-1: _Introdução React_
 - [x] 10-1: _'Hello, world!' no React!_
 - [x] 10-2: _Componentes React_
-- [ ] 10-3: _[Projeto - Sistema Solar]()_
+- [x] 10-3: _[Projeto - Sistema Solar](https://github.com/tryber/sd-020-b-project-solar-system/pull/28)_
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 11-1: _Componentes com estado e eventos_
-- [ ] 11-2: _Formulários no React_
-- [ ] 11-3: _[Projeto - Tryunfo]()_
+- [x] 11-1: _Componentes com estado e eventos_
+- [x] 11-2: _Formulários no React_
+- [x] 11-3: _[Projeto - Tryunfo](https://github.com/tryber/sd-020-b-project-tryunfo/pull/14)_
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
-- [ ] 12-1: _Ciclo de Vida de Componentes_
-- [ ] 12-2: _React Router_
-- [ ] 12-3: _[Projeto - TrybeTunes]()_
+- [x] 12-1: _Ciclo de Vida de Componentes_
+- [x] 12-2: _React Router_
+- [x] 12-3: _[Projeto - TrybeTunes](https://github.com/tryber/sd-020-b-project-trybetunes/pull/27)_
 
 ##### Bloco 13: Metodologias Ágeis
 
@@ -106,14 +106,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 
-- [ ] 14-1: __
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
+- [ ] 14-1: _RTL - Primeiros Passos_
+- [ ] 14-2: _RTL - Mocks e Inputs_
+- [ ] 14-3: _RTL - Testando React Router_
+- [ ] 14-4: _[Projeto - Testes em React]()_
 
 ##### Bloco 15: Testes em React
 
 - [ ] 15-1: _Testando React com a React Testing Library_
 - [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15-3: _[Projeto - Testes em React]()_
+- [ ] 15-3: _[Projeto - ]()_
 
 ##### Bloco 16: Introdução ao Redux
 
