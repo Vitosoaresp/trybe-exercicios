@@ -106,42 +106,42 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 
-- [ ] 14-1: _RTL - Primeiros Passos_
-- [ ] 14-2: _RTL - Mocks e Inputs_
-- [ ] 14-3: _RTL - Testando React Router_
-- [ ] 14-4: _[Projeto - Testes em React]()_
+- [X] 14-1: _RTL - Primeiros Passos_
+- [X] 14-2: _RTL - Mocks e Inputs_
+- [X] 14-3: _RTL - Testando React Router_
+- [X] 14-4: _[Projeto - Testes em React](https://github.com/tryber/sd-020-b-project-react-testing-library/pull/21)_
 
-##### Bloco 15: Testes em React
+##### Bloco 15: Gerenciamento de estado com Redux
 
-- [ ] 15-1: _Testando React com a React Testing Library_
-- [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15-3: _[Projeto - ]()_
+- [X] 15-1: _Introdução ao Redux - O estado global da aplicação_
+- [X] 15-2: _Usando Redux no React_
+- [X] 15-3: _Usando Redux no React - Prática_
+- [X] 15-4:  _Usando Redux no React - Actions Assícronas_
+- [ ] 15-5: _Testes em React-Redux_
+- [ ] 15-6: _[Projeto - Trybe wallet ]()_
 
-##### Bloco 16: Introdução ao Redux
+##### Bloco 16: Projeto jogo de Trivia
 
-- [ ] 16-1: _Introdução ao Redux_
-- [ ] 16-2: _React com Redux - Parte 1_
-- [ ] 16-3: _React com Redux - Prática_
-- [ ] 16-4: _React com Redux - Parte 2_
-- [ ] 16-5: _Testes síncronos com React-Redux_
-- [ ] 16-6: _[Projeto - Tabela com filtros de dados]()_
+- [ ] 16-1: _[Projeto - Jogo de Trivia]()_
 
-##### Bloco 17: Projeto React
+##### Bloco 17: Content API e React Hooks
 
-- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
+- [ ] 17-1: _Context API do React_
+- [ ] 17-2: _React Hooks - useState e useContext_
+- [ ] 17-3: _React Hooks - useEffect e Hooks customizados_
+- [ ] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
-##### Bloco 18: React & Context API
+##### Bloco 18: Projeto App de Receitas
 
-- [ ] 18-1: _Context API do React_
-- [ ] 18-2: _React Hooks - useState e useContext_
-- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [ ] 18-1: _[Projeto - App de Receitas]()_
 
-##### Bloco 19: Projeto Final de Front-end
-
-- [ ] 19-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
+
+##### Bloco 19: Inicio Back-end
+
+- [ ] 19-1: _Back end_
+
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 
