@@ -117,19 +117,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 15-2: _Usando Redux no React_
 - [X] 15-3: _Usando Redux no React - Prática_
 - [X] 15-4:  _Usando Redux no React - Actions Assícronas_
-- [ ] 15-5: _Testes em React-Redux_
-- [ ] 15-6: _[Projeto - Trybe wallet ]()_
+- [x] 15-5: _Testes em React-Redux_
+- [x] 15-6: _[Projeto - Trybe wallet ](https://github.com/tryber/sd-020-b-project-trybewallet/pull/13)_
 
 ##### Bloco 16: Projeto jogo de Trivia
 
-- [ ] 16-1: _[Projeto - Jogo de Trivia]()_
+- [x] 16-1: _[Projeto - Jogo de Trivia](https://github.com/tryber/sd-020-b-project-trivia-react-redux/pull/7)_
 
 ##### Bloco 17: Content API e React Hooks
 
-- [ ] 17-1: _Context API do React_
-- [ ] 17-2: _React Hooks - useState e useContext_
-- [ ] 17-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [x] 17-1: _Context API do React_
+- [x] 17-2: _React Hooks - useState e useContext_
+- [x] 17-3: _React Hooks - useEffect e Hooks customizados_
+- [x] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/tryber/sd-020-b-project-starwars-planets-search/pull/29)_
 
 ##### Bloco 18: Projeto App de Receitas
 
